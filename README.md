@@ -47,3 +47,5 @@ I'm a student.
 <br/>
 
 ![Y1083098693's github stats](https://github-readme-stats.vercel.app/api?username=Y1083098693&count_private=true&show_icons=true&hide=prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y1083098693&layout=compact&hide=)

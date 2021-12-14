@@ -42,6 +42,10 @@ I'm a student.
       <td>Traditional Chinese</td>
       <td>Close to native</td>
   </tr>
+  <tr>
+      <td>Cantonese</td>
+      <td>A little bit</td>
+  </tr>
 </table>
 
 <br/>
